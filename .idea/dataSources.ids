@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails RubyTut2: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="03539eb8-d65d-43a8-b257-06e1828e93e1">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1:3307/RubyTut2_development</jdbc-url>
+    <user-name>root</user-name>
+    <user-password>dff9dfdfdfc8dfd3df9adf9adf9bdf80</user-password>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/mysql-connector-java-5.1.18-bin.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RubyTut2: test" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="be5f4a2a-0f84-405e-844f-aaf3fc3f6673">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1:3307/RubyTut2_test</jdbc-url>
+    <user-name>root</user-name>
+    <user-password>dff9dfdfdfc8dfd3df9adf9adf9bdf80</user-password>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/mysql-connector-java-5.1.18-bin.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RubyTut2: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="672c68f5-b8cf-40bc-a6a8-e43206ee6c7e">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1:3307/RubyTut2_production</jdbc-url>
+    <user-name>root</user-name>
+    <user-password>dff9dfdfdfc8dfd3df9adf9adf9bdf80</user-password>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/mysql-connector-java-5.1.18-bin.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
