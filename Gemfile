@@ -5,19 +5,9 @@ gem 'rails', '4.0.0.rc1'
 
 # Use mysql as the database for Active Record
 #gem 'mysql2'
-#gem 'mysql2', '~>0.3.11'
+gem 'mysql2', '~>0.3.11'
 
-group :development do
-  gem 'mysql2', '~>0.3.11'
-end
 
-group :test do
-  gem 'mysql2', '~>0.3.11'
-end
-
-group :production do
-  gem 'pg', '0.15.1'
-end
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0.rc1'

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="3618505561">
-    <data-source source="LOCAL" name="Rails RubyTut2: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="03539eb8-d65d-43a8-b257-06e1828e93e1">
+  <component name="DataSourceManagerImpl" format="xml" hash="86484590">
+    <data-source source="LOCAL" name="Rails RubyTut2: development" product="MySQL" version="5.6.10-log" jdbc-version="4.0" driver-name="MySQL-AB JDBC Driver" driver-version="mysql-connector-java-5.1.18 ( Revision: tonci.grgin@oracle.com-20110930151701-jfj14ddfq48ifkfq )" uuid="03539eb8-d65d-43a8-b257-06e1828e93e1">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://127.0.0.1:3307/RubyTut2_development</jdbc-url>
       <user-name>root</user-name>
